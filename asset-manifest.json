@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devsargentinos/static/css/main.687c71c8.chunk.css",
+    "main.js": "/devsargentinos/static/js/main.b47ab683.chunk.js",
+    "main.js.map": "/devsargentinos/static/js/main.b47ab683.chunk.js.map",
+    "runtime-main.js": "/devsargentinos/static/js/runtime-main.fb2ba8ce.js",
+    "runtime-main.js.map": "/devsargentinos/static/js/runtime-main.fb2ba8ce.js.map",
+    "static/js/2.6252f0b3.chunk.js": "/devsargentinos/static/js/2.6252f0b3.chunk.js",
+    "static/js/2.6252f0b3.chunk.js.map": "/devsargentinos/static/js/2.6252f0b3.chunk.js.map",
+    "index.html": "/devsargentinos/index.html",
+    "precache-manifest.356fb3596fb39c13b45bcaee7d5e3fe7.js": "/devsargentinos/precache-manifest.356fb3596fb39c13b45bcaee7d5e3fe7.js",
+    "service-worker.js": "/devsargentinos/service-worker.js",
+    "static/css/main.687c71c8.chunk.css.map": "/devsargentinos/static/css/main.687c71c8.chunk.css.map",
+    "static/js/2.6252f0b3.chunk.js.LICENSE": "/devsargentinos/static/js/2.6252f0b3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2ba8ce.js",
+    "static/js/2.6252f0b3.chunk.js",
+    "static/css/main.687c71c8.chunk.css",
+    "static/js/main.b47ab683.chunk.js"
+  ]
+}
